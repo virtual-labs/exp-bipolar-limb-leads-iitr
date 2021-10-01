@@ -1,39 +1,60 @@
 {
   "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
+  "questions":[
+		{
+		"question":"Lead I is the signal taken between:",
+		"answers":{
+		"a":"RA & LA",
+		"b":"RA & LL",
+		"c":"LA & LL",
+		"d":" RA & RL"
+		},
+		"correctAnswer":"a",
+		"difficulty": "beginner"
+		},
+		{
+		"question":"Lead II is the signal taken between:",
+		"answers":{
+		"a":"RA & LA",
+		"b":"RA & LL",
+		"c":"LA & LL",
+		"d":" RA & RL"
+		},
+		"correctAnswer":"b",
+		"difficulty": "beginner"
+		},
+		{
+		"question":"Lead III is the signal taken between:",
+		"answers":{
+		"a":"RA & LA",
+		"b":"RA & LL",
+		"c":"LA & LL",
+		"d":" RA & RL"
+		},
+		"correctAnswer":"c",
+		"difficulty": "beginner"
+		},
+		{
+		"question":"____ is used as a Ground in acquiring an ECG:",
+		"answers":{
+		"a":"RA",
+		"b":"LA",
+		"c":"RL",
+		"d":"LL"
+		},
+		"correctAnswer":"c",
+		"difficulty": "beginner"
+		},
+		{
+		"question":"Electrical Impulses in the heart originate at:",
+		"answers":{
+		"a":"SA Node",
+		"b":"AV Node",
+		"c":"Bundle of His-Purkinje",
+		"d":"Purkinje Fibres"
+		},
+		"correctAnswer":"a",
+		"difficulty": "beginner"
+		}
   ]
 }
