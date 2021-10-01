@@ -1,39 +1,58 @@
 {
   "version": 2.0,
   "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
+	{
+	"question":"The typical Paper Speed for ECG Acquisition is:",
+	"answers":{
+	"a":"20mm/sec",
+	"b":"25mm/sec",
+	"c":"40mm/sec",
+	"d":"50mm/sec"
+	},
+	"correctAnswer":"b",
+	"difficulty": "intermediate"
+	},
+	{
+	"question":"A Calibration Pulse in an ECG is:",
+	"answers":{
+	"a":"1 mV",
+	"b":"10 mV",
+	"c":"0.1 mV",
+	"d":"100 mV"
+	},
+	"correctAnswer":"a"
+	},
+	{
+	"question":"Inferior Leads in the Clinical Lead Groups are:",
+	"answers":{
+	"a":"V1 and V2",
+	"b":"I, aVL,V5 and V6",
+	"c":"II, III and aVF",
+	"d":"V3 and V4"
+	},
+	"correctAnswer":"c",
+	"difficulty": "intermediate"
+	},
+	{
+	"question":"Higher than Normal Heart Rate is:",
+	"answers":{
+	"a":"Tachycardia",
+	"b":"Bradycardia",
+	"c":"Arrhythmia",
+	"d":"Fibrillation"
+	},
+	"correctAnswer":"a",
+	"difficulty": "intermediate"
+	},
+	{
+	"question":"Slower than Normal Heart Rate is:",
+	"answers":{
+	"a":"Tachycardia",
+	"b":"Bradycardia",
+	"c":"Arrhythmia",
+	"d":"Fibrillation"
+	},
+	"correctAnswer":"b"
+	}
   ]
 }
