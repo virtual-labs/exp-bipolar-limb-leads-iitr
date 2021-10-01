@@ -9,7 +9,7 @@
 <br> 
 <p align=justify>The SA node is the basic, natural cardiac pacemaker that triggers its own train of action potentials. The action potential of the SA node propagates through the rest of the heart, causing a particular pattern of excitation and contraction. The sequence of events and waves in cardiac cycle is as follows:</p>
 <br><ul>
-<li>	The SA node fires.</li>
+<li>&#8226; &nbsp;The SA node fires.</li>
 <li><p align=justify>&#8226; &nbsp;Electrical activity is propagated through the atrial musculature at comparatively low rates, causing slow –moving depolarization (contraction) of the atria. This results in the P wave in the ECG. Due to the slow contraction of the atria and their small size, the P wave is a slow, low amplitude wave, with an amplitude of about 0.1-0.2 mV and a duration of about 60-80 ms.</p></li>
 <li><p align=justify>&#8226; &nbsp;The excitation wave faces a propagation delay at the atrio- ventricular (AV) node, which results in a normally iso-electric segment of about 60-80 ms after the P wave in ECG, known as the PQ segment. The pause assists in the completion of the transfer of blood from the atria to the ventricles.</p></li>
 
@@ -35,7 +35,7 @@
 <img src="images/12 Lead Configration.jpg"  width="525" height="450"> <br> <b>Figure-2:&nbsp;12 Lead ECG configuration</b> <br>    
 </center><br><br>
 <p align=justify>In ECG lead refers to the voltage between two electrodes. In 12 Lead ECG total 10 surface electrodes are attached to various specified positions on the body as shown in the figure 2. A suitable gel is used to provide impedance match between the electrodes and the skin. The 10 electrodes are classified as: 4 limb electrodes, Right Arm (RA), Left Arm (LA), Left Leg (LL) and Right Leg (RL); and 6 chest electrodes, V1-V6.</p></b></p><br>
-<center><img src="images/Leads Position.PNG"  width="625" height="650"> <br>
+<center><img src="images/Leads Position.png"  width="625" height="650"> <br>
 <b>Figure-3:&nbsp;Leads Position</b></p> </center>
    
  <p align=justify>A total of 12 Leads are derived from these 10 electrodes. These 12 leads are classified as 3 limb leads, 3 augmented limb leads and 6 precordial leads. Out of this 12 leads, limb leads are bipolar while all other leads are unipolar leads. The definition for all 12 leads is as follows:-</p>
