@@ -1,1 +1,1 @@
-## Experiment name
+## Monitoring of electrocardiogram (ECG) for bipolar limb leads l1,l2 and l3.
