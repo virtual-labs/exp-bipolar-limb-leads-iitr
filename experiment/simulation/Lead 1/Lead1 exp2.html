@@ -67,6 +67,10 @@
         }
 
     </script> 
+    <script>
+    // Set the ajaxSettings options during initialization.                  
+            $("#graphdialog").ejDialog({  ajaxSettings: { type: 'GET', cache: false, data: {}, dataType: "html", contentType: "html", async: true } });
+    </script>
 <!--link of seven Segment code ends-->
  
 
@@ -247,6 +251,7 @@ function makeNormal() {
                 width: 1500,
                 actionButtons: ["close", "maximize", "minimize"],
                 cssClass: "custom",
+                closeOnEscape: true,
 
                 open: function(args) {
                  
